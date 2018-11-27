@@ -1,0 +1,10 @@
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 300px;
+    width: 300px;
+}
+body {
+    text-align: center;
+}
